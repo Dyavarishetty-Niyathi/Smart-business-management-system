@@ -37,7 +37,7 @@ The system automatically updates stock after each sale and provides graphical an
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/smart-business-management-system.git
+git clone https://github.com/Dyavarishetty-Niyathi/smart-business-management-system.git
 
 
 2. Import database:
