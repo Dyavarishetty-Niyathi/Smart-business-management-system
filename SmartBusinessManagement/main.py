@@ -409,7 +409,7 @@ class SalesEntry(ttk.Frame):
 
 
 
-# ------------------- Sales Analysis (Improved Graph) -------------------
+# ------------------- Sales Analysis -------------------
 
 class SalesAnalysis(ttk.Frame):
     def __init__(self, master):
